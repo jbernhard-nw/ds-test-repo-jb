@@ -6,3 +6,5 @@
 * `touch`
 * `rmdir`
 * `date`
+* `cat`
+* `nano`
